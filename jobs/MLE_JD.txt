@@ -1,0 +1,26 @@
+What You'll Do
+
+Create hypotheses, design experiments, and collect results for machine learning model improvement.
+Design, build, and maintain machine learning models with an emphasis on LLMs, knowledge distillation, and scalability.
+Collaborate to push the boundaries of machine learning creating Small Language Models and using knowledge distillation
+Implement best practices and design to ensure high-quality software development including coding, code reviews, testing, and maintenance
+Engage in continuous learning to keep abreast of the latest machine learning
+Frameworks and methodologies for domain-specific applications.
+Work closely with the founders and early customers to understand pain points and build solutions to support growth strategies
+Conduct research and experimentation to explore new techniques, algorithms, and technologies that can drive innovation and competitive advantage.
+Collect, clean, pre-process, and analyse large datasets to extract meaningful insights and features for model training and evaluation.
+Document methodologies, processes, and findings. Communicate results and insights effectively to technical and non-technical stakeholders
+Collaborate with cross-functional teams to integrate ML models into cloud-based infrastructure and full-stack development projects.
+Preferred experience
+
+Exceptional foundation and previous work experience with machine learning algorithms, frameworks, and libraries. With a particular focus on any of the following: ANNs, XGBoost, Large
+Language Models and Natural Language Processing.
+Computer science background in software development practices (git, peer review) and programming languages relevant to machine learning such as Python
+An understanding of cloud infrastructure and full-stack development to support end-to-end machine learning model deployment.
+Working with Google AI products such as VertexAI;
+Bonus Experience
+
+Proven track record of implementing ANNs and/or Large Language Models (LLMs) within enterprise environments
+Experience working at deep tech companies involved in developing novel intellectual property (IP) and cutting-edge technologies.
+Strong background in machine learning research, with a proven track record of publications and contributions to the field.
+PhD in any AI discipline

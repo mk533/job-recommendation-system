@@ -1,0 +1,18 @@
+As a Lead Backend Software Engineer in our music tech startup, you will play a crucial role in designing and implementing scalable, reliable backend systems. Your responsibilities will include developing robust APIs, services, and databases to support our advanced frontend. You will establish coding standards ensuring quality and consistency. Your problem-solving skills will be essential in identifying and resolving technical issues and performance bottlenecks. You will be responsible for conducting unit tests, integration tests, and end-to-end tests, ensuring the maintainability of our codebase. You will manage continuous integration/continuous deployment (CI/CD) within our cloud infrastructure using AWS, Azure, Google Cloud, or CloudFlare. As a key protector of our systems, you will implement security measures in adherence to regulations such as GDPR and DRM. You will also set up monitoring and logging systems to track application performance and make necessary optimizations to our tech stack to improve scalability, reliability, and efficiency. Your contribution in documenting technical designs, APIs, and development processes will support team collaboration and knowledge sharing. Staying updated on the latest technologies and best practices, you will drive innovation in our processes, tools, and workflows to enhance team productivity. Join us in leading the way in the music tech industry.
+
+Requirements
+Proficient in backend programming languages (Python, JavaScript, Rust, Go)
+Experienced with backend frameworks and libraries (Express.js, Django, Flask, Gin)
+Extensive knowledge of databases and data storage solutions (PostgreSQL, MySQL, MongoDB, Redis, S3, EBS)
+Proficient in RESTful and GraphQL API design principles
+Familiar with cloud platforms (AWS, Azure, Google Cloud) and application deployment on these infrastructures
+Experienced in writing unit, integration, and end-to-end tests for code quality and reliability
+Understanding of software engineering best practices (code reviews, version control, CI/CD pipelines)
+Strong problem-solving skills
+Enthusiastic about continuous learning
+Nice to Haves
+Experience with frontend technologies (HTML, CSS, JavaScript) and frameworks/libraries (React, Angular, Vue.js)
+Knowledge of DevOps practices and containerization tools (Docker, Kubernetes)
+Familiarity with GraphQL for efficient data management
+Understanding of web application security measures
+Proficiency in Machine Learning or Applied Mathematics
